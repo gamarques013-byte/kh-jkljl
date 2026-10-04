@@ -1,99 +1,89 @@
-# Fornecedores e Dahua: racional, revisão e roteiro de apresentação
+# Fornecedores e Dahua: racional, correções e roteiro de apresentação
 
-*Acompanha `intelbras_fornecedores_dahua.pptx`. O roteiro falado completo, as perguntas prováveis e as contas estão nas **anotações do apresentador** de cada slide.*
+*Acompanha `intelbras_fornecedores_dahua.pptx`, versão construída sobre o seu `fpornecedores_dahua2`. O roteiro falado, as perguntas prováveis e as contas estão nas **anotações do apresentador** de cada slide.*
 
 ---
 
-## 1. Storytelling: a história em três frases
+## 1. Storytelling
 
-1. **A regra (slide 1):** a Intelbras compra quase tudo de fora, em dólar, de poucos gigantes. Por isso é **tomadora de preço** e paga isso em margem volátil e capital de giro alto.
-2. **A exceção que pesa (transição):** entre todos os fornecedores, um pesa mais que os outros: a Dahua.
-3. **O risco (slide 2):** a Dahua dá o que a Intelbras não consegue fazer sozinha (P&D de câmeras) e recebe o canal. Mas está saindo do capital **justo quando a Intelbras mais depende do crédito dela**, e tudo converge para a renovação de dez/2028.
+**Seção:** modelo de negócios / fornecedores. Olhar de dentro para fora: o que a Intelbras compra, de quem, em que moeda e com que poder.
 
-**Arco.** Do geral para o específico, e do estrutural para o evento.
-- O slide 1 explica o **porquê** da margem oscilar.
-- O slide 2 aponta **quando** pode haver uma ruptura e quanto está em jogo.
+| | Mensagem | Papel na história |
+|---|---|---|
+| **Slide 1** | "Baixo poder de barganha com os fornecedores": custo em dólar e comprado pronto, fornecedores concentrados → a Intelbras aceita o preço e repassa com atraso | **A regra:** explica por que a margem oscila |
+| **Ponte** | "E entre todos os fornecedores, um pesa mais que os outros: a Dahua." | Do geral para o específico |
+| **Slide 2** | "Dahua: parceira estratégica, dependência crescente": a Dahua dá a tecnologia e recebe o canal, mas pesa mais nas compras e no crédito e está saindo antes de 2028 | **A exceção que vira risco:** o maior evento isolado da tese |
 
-**Frase-ponte (decorar):** "A Intelbras é tomadora de preço. E entre todos esses fornecedores, um pesa mais que os outros: a Dahua."
+**Lógica interna de cada slide**
+- **Slide 1:** *o quê* (moeda) → *como* (compra pronto; fábrica se paga com incentivo) → *de quem* (poucos mandam em cada elo) → *consequência* (margem anda contra o dólar).
+- **Slide 2:** em cima, *o que é a relação* (peso e troca); embaixo, *por que virou risco* (crédito e afastamento).
 
 ---
 
 ## 2. Racional de cada gráfico
 
-### Slide 1: "Fornecedores: tomadora de preço de oligopólios globais"
+### Slide 1
 
-| Quadrante | Pergunta que responde | Por que esse gráfico | Como ler em 5 segundos | Limitação a saber |
-|---|---|---|---|---|
-| **I. Barras 100%** (85% / 92% / ~80%) | "Quanto do custo depende de fora?" | Três medidas com a **mesma escala** (0–100%) contam uma sequência: **o quê** (custo é insumo comprado) → **onde** (exterior) → **em que moeda** (dólar). A barra 100% torna as três comparáveis num olhar | Tudo verde é "dependência externa". Quase tudo é verde | Os 85% incluem produto de revenda (é exatamente o ponto). Os ~80% são aproximados (FRE) |
-| **II. Barras empilhadas de share** | "De quem ela compra, e eles têm poder?" | Market share mostra concentração melhor que qualquer frase. A barra empilhada mostra o "dono" de cada mercado. **A Dahua em verde** antecipa o slide 2 | Fatias pretas grandes = poucos donos | É share **global**, não a parcela que a Intelbras compra de cada um. A Intelbras compra chips de fabricantes que produzem nessas fábricas (dizer isso se perguntarem) |
-| **III. Waterfall cambial** | "Quanto do dólar fica descoberto?" | O waterfall mostra a ponte **dívida em dólar → proteções → exposição líquida**. O callout leva do balanço para o **resultado**: R$249 mi de custo a cada +10% no dólar | Preto = exposição; verde = proteção | O waterfall é o balanço (estoque de dívida). O efeito grande está no custo do ano, por isso o callout. O hedge (NDF) protege caixa de curto prazo, não margem de longo prazo |
-| **IV. Colunas estoque vs prazo** | "Como ela se defende sem barganha?" | Duas séries lado a lado mostram a **distância** entre o que ela estoca e o prazo que recebe. A distância é capital próprio parado | Verde sempre acima do cinza = Intelbras financia a diferença | O estoque também serve ao canal (disponibilidade ao instalador), não só à defesa contra fornecedores |
+| Quadrante | Pergunta | Gráfico e por quê | Leitura em 5 segundos |
+|---|---|---|---|
+| **I.** Moeda | "O câmbio afeta a Intelbras?" | Três barras com a parcela em moeda estrangeira: custo (~80%), contas a pagar (92%) e **contas a receber (4%)**. Pôr custo e receita lado a lado mostra o **descasamento**, que é o seu ponto ("receita em reais expõe a empresa") | Pretas compridas, verde curtinha |
+| **II.** Comprado vs produzido | "A Intelbras fabrica ou compra?" | Barras em R$: comprado (2.667) × produção própria (451) × **incentivos (460)**. Prova seu ponto da montagem com um número: os incentivos cobrem o custo da fábrica | A barra verde ≈ a barra preta |
+| **III.** Do chip ao produto pronto | "O que compra e quem manda em cada elo?" | Faixa com os três elos (componentes → montagem no Brasil → produto pronto) + concentração por elo: TSMC 70%, top-3 de memória 92%, e CFTV pronto **só da Dahua, por contrato**. Atende ao seu pedido de "do componente ao OEM" | Cada barra tem um dono grande |
+| **IV.** Consequência | "Isso aparece no resultado?" | Dois gráficos empilhados, com o mesmo eixo de trimestres (1T23–2T26): dólar em cima, margem bruta embaixo. Duas linhas separadas evitam o eixo duplo, que confunde leigos | Quando o dólar sobe, a margem cai; volta com atraso |
 
-### Slide 2: "Dahua: a parceria que sustenta Segurança está perdendo força"
+### Slide 2
 
-**Estrutura:** a metade de cima mostra **por que a relação existe**; a de baixo, **por que está perdendo força**.
-
-| Quadrante | Pergunta que responde | Por que esse gráfico | Como ler | Limitação |
-|---|---|---|---|---|
-| **I. Barras de P&D** (1.650 / 587 / 32) | "Por que comprar e não fazer? Por que Dahua e não outro?" | Escala de P&D é o argumento mais simples para "não dá para fazer sozinho". O rótulo de share mostra que a nº 1 (Hikvision) é concorrente, então sobra a nº 2 | Barra verde minúscula = Intelbras não compete em P&D. **18x** | Dahua com dado de 2024; Hikvision e Intelbras de 2025. O P&D da Intelbras cobre todas as BUs, o que **reforça** o ponto |
-| **II. Diagrama de troca + assimetria** | "O que cada lado ganha?" | O fluxo com setas é o formato natural para uma troca. Os dois números embaixo (23% vs ~3%) transformam "quem precisa mais de quem" em fato | Setas = o que vai e volta. **23% vs ~3%** = poder de barganha da Dahua | Os ~3% dependem de conversão cambial (estimativa) |
-| **III. Linhas: % do CPV vs % dos fornecedores** (2021–25) | "A dependência está subindo ou caindo?" | Duas linhas na mesma escala mostram **descolamento**: no custo, estável; no crédito, subindo. O callout de 225 dias e a simulação de 90 dias dão o "e daí" financeiro | Linha verde subindo, preta estável (o pico de 2024 é estoque) | O prazo é implícito (saldo ÷ compras). Não é o prazo contratual |
-| **IV. Colunas da participação acionária + marcos** | "A Dahua está se afastando?" | A participação acionária é o sinal mais objetivo de alinhamento. A sequência 10 → 10 → 7,56 → "0%?" é autoexplicativa. Os marcos ao lado juntam os outros sinais | Colunas descendo até o "0%?" em 2028 | O "0%?" é cenário: a venda foi **autorizada**, não executada. A data da independência da Dahua Brasil é aproximada |
+| Quadrante | Pergunta | Gráfico e por quê | Leitura |
+|---|---|---|---|
+| **I.** Concentração | "Quanto pesa a Dahua?" | Linha tracejada: % dos gastos com fornecedores (28,6% → 36%, FRE). Linha cheia: % do custo dos produtos vendidos, 2021–25 (DFP), como você pediu. O pico de 2024 está anotado (estoque) | Uma linha sobe; a outra é estável, com um pico explicado |
+| **II.** A troca | "Por que Dahua, e o que cada um ganha?" | Seu diagrama, com o "por quê" quantificado (P&D 18x maior), a cláusula de proteção e a **assimetria** (23% × ~3%) | Quem precisa mais de quem |
+| **III.** Crédito | "A Dahua também financia?" | Colunas do saldo a pagar (R$) com o % do total de fornecedores embaixo de cada ano. O callout traduz em risco: 225 dias; se cair para 90 dias, +R$269 mi de capital | Barra verde = hoje, 43% do total |
+| **IV.** Afastamento | "A relação está mudando?" | Linha do tempo em **duas fases** (verde = aproximação, preto = afastamento). A participação fica acima do eixo (10 → 10 → 7,56 → 0%?), os marcos abaixo. Menos texto que a versão anterior e mais detalhe (seu pedido) | A linha muda de cor e termina em dez/28 |
 
 ---
 
-## 3. Revisão: o que foi corrigido e o que ainda pode melhorar
+## 3. Correções de dados em relação à sua versão
 
-**Corrigido nesta versão**
-
-| Item | Antes | Depois | Por quê |
-|---|---|---|---|
-| Callout do slide 1, IV | "50–70 dias" | **"~40–70 dias"** | A diferença real foi de 38 a 71 dias (2021–25) |
-| Título do slide 2, III | "compra menos da Dahua" | **"peso no custo é estável, mas no crédito subiu de 30% para 43%"** | Em % do CPV, 2021 (24%) ≈ 2025 (23%). Só caiu frente ao pico de 2024 (compra para estoque). A afirmação anterior não se sustentava |
-| Subtítulo do slide 2 | "a compra relativa cai" | **"está saindo do capital justo quando a Intelbras mais depende do seu crédito"** | Mesmo motivo, e agora a frase contém a tese |
-| Subtítulo do slide 1 | Descrevia a situação | **Termina na implicação: "paga isso em margem e capital de giro"** | Todo slide precisa do "e daí" |
-| Rótulos | "Fundição de chips", "80%", "Intelbras" | **"Fabricação de chips", "~80%", "Intelbras (todas as BUs)"**; anotação "(estoque)" no pico de 2024 | Menos jargão e menos espaço para interpretação errada |
-| Anotações do apresentador | Só fontes | **Roteiro falado + perguntas prováveis + contas** | Apresentação |
-
-**O que ainda poderia melhorar (depende de dado ou de escolha sua)**
-1. **Prova de preço.** Falta um dado que mostre a Intelbras *aceitando* preço (ex.: custo unitário de memória ou câmera ao longo do tempo). Hoje a evidência é indireta: margem e câmbio. [DATA NEEDED]
-2. **Origem dos gastos (China %).** Seu gráfico original foi retirado por falta de fonte. Com fonte, ele entra no quadrante I como uma quarta barra.
-3. **Slide 2, IV, mais visual.** Uma linha do tempo horizontal única (participação + marcos no mesmo eixo) seria mais limpa que colunas + lista. Fica a seu critério.
-4. **Cláusula de proteção (≥5%).** Está só nas anotações. Se a banca for técnica, vale um selo pequeno no quadrante II.
-5. **Animação.** No slide 2, revelar a metade de baixo só depois da frase "Agora, por que essa relação está perdendo força" (PowerPoint → selecionar os elementos de III e IV → Animações → Aparecer, "Ao clicar"). Isso cria o momento de virada.
+| Na sua versão | Corrigido para | Motivo |
+|---|---|---|
+| "Gastos por origem: China 69%, outros 15%, Brasil 16%" | Parcela em moeda estrangeira: custo ~80%, a pagar 92%, a receber 4% | A divisão por país não está no FRE nem na DFP. A moeda está (DFP NE 25). Se você tiver a fonte dos 69%, dá para voltar com ela |
+| "~90% do saldo a pagar é externo" | **92%** | DFP NE 14: R$972,6 mi ÷ R$1.062,6 mi |
+| "80% do CPV atrelado ao dólar" | **~80%** | O FRE dá o número como aproximado |
+| "A montagem serve de pretexto para usufruir de incentivos" | "A fábrica local se paga com incentivos" | Mesma ideia, provada com números (R$451 mi × R$460 mi) e sem afirmar intenção, que não dá para provar |
+| Rosca do CPV (85,5% / 14,5%) | Barras em R$ com os incentivos ao lado | A rosca só mostrava a divisão; a barra permite comparar com o incentivo |
+| "R$524 mi ≈ 50% de fornecedores + risco sacado" | **R$449 mi = 43%** (DFP, auditado) | O FRE 11.2 informa R$524 mi; a diferença provavelmente é risco sacado, sem conciliação. Para manter a série 2021–25 comparável, usamos a DFP. Os R$524 mi estão nas anotações |
+| "Dependência é mútua" | "Mútua, mas **assimétrica**" | A Dahua é 23% do custo da Intelbras; a Intelbras é ~3% da receita da Dahua |
+| "Canal com ~50% do CFTV" | "Canal de 500 distribuidores e 90 mil instaladores" | O share atual é de 44% em Segurança (MIDI). O dado de ~50% do CFTV não tem série atual |
+| Gráfico de oligopólio com Hikvision | Concentração por **elo que a Intelbras compra**; Hikvision removida | A Hikvision é concorrente (análise setorial). No CFTV, o que importa é que a Intelbras tem um fornecedor por contrato |
+| "Fontes: Intelbras RI" | Fontes específicas por slide | Cada número com origem |
 
 ---
 
 ## 4. Como apresentar
 
-**Tempo:** slide 1 ≈ 2 min; slide 2 ≈ 2,5 min; reserve 2–3 min para perguntas.
+**Tempo:** slide 1 ≈ 2 min; slide 2 ≈ 2,5 min; 2–3 min para perguntas.
 
-**Ordem de leitura (Z):** título → subtítulo → I → II → III → IV. Em cada quadrante, siga a mesma sequência:
-1. leia o **cabeçalho** (é a conclusão);
-2. **aponte um único número**;
-3. diga o mecanismo em uma frase;
-4. passe ao próximo.
+**Ordem:** título → subtítulo → I → II → III → IV. Em cada quadrante:
+1. leia o cabeçalho (é a conclusão);
+2. aponte **um** número;
+3. diga o mecanismo em uma frase.
 
 | Slide | Números-âncora, na ordem |
 |---|---|
-| 1 | **85%** → **TSMC 70%** (e Dahua em verde) → **R$249 mi** → **~40–70 dias** |
-| 2 | **18x** → **23% vs ~3%** → **30% → 43%** e **225 dias** → **dez/2028** |
+| 1 | **~80% × 4%** → **460 ≈ 451** → **TSMC 70% / Dahua** → **dólar +18%, margem −4,9 p.p.** |
+| 2 | **36%** → **23% × ~3%** → **225 dias / 43%** → **dez/28** |
 
-**Para uma plateia leiga**
-- **Troque siglas por palavras:**
-  - CPV = "custo do que ela vende";
-  - NDF = "hedge";
-  - risco sacado = "banco que antecipa o pagamento ao fornecedor".
-- **Uma metáfora ajuda no slide 2:** "A Intelbras tem a loja e os vendedores; a Dahua tem a fábrica e os engenheiros. O contrato que une os dois vence em 2028, e a Dahua está vendendo a parte que tinha na loja."
-- **Não diga** "a Dahua vai romper". Diga "é o **maior risco isolado** da tese, e é por isso que acompanhamos estes indicadores": prazo, % do CPV, comunicados.
+**Frases-chave para decorar**
+- **Slide 1, II:** "Fabricar no Brasil é mais uma decisão tributária do que industrial."
+- **Ponte:** "Entre todos os fornecedores, um pesa mais que os outros: a Dahua."
+- **Fecho do slide 2:** "Não é previsão de rompimento; é o evento que mais pode mexer na margem e no capital da Intelbras nos próximos anos."
 
-**Versão de 1 minuto (se o tempo for cortado):** leia só título + subtítulo de cada slide e um número de cada metade:
-- slide 1: 85% e R$249 mi;
-- slide 2: 23% vs ~3% e dez/2028.
+**Para leigos**
+- **Troque siglas por palavras:** CPV = "custo do que ela vende"; risco sacado = "banco que antecipa o pagamento ao fornecedor"; NDF = "hedge".
+- **Metáfora:** "A Intelbras tem a loja e os vendedores; a Dahua tem a fábrica e os engenheiros. O contrato vence em 2028, e a Dahua está vendendo a parte que tinha na loja."
 
-**Perguntas prováveis:** estão nas anotações de cada slide, com resposta curta e fonte. As mais prováveis:
-- "Compra direto da TSMC?"
-- "Por que não troca de fornecedor?"
-- "225 dias não é bom?"
-- "A Dahua pode entrar sozinha?"
-- "Por que 23% e não 36%?"
+**Se o tempo for cortado para 1 minuto:** leia os dois títulos e subtítulos e cite:
+- slide 1: "460 ≈ 451" e "dólar +18%, margem −4,9 p.p.";
+- slide 2: "23% × ~3%" e "dez/28".
+
+**Animação sugerida (opcional):** no slide 2, revele a metade de baixo só ao dizer "agora, por que essa relação virou risco".
