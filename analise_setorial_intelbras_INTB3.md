@@ -46,6 +46,10 @@ Por isso o valor da INTB3 depende menos do crescimento dos mercados e mais de tr
   - **95,0% do lucro líquido**.
 - [DADO] Alíquota efetiva de IR/CSLL: **0,74%** [DFP NE 24].
 - [ESTIMATIVA] Mesmo com os incentivos, o ROIC pré-IR de 2025 foi **15,1%**, praticamente igual à Selic [Planilha; E10].
+- [DADO + ESTIMATIVA] Série de 2020 a 2025 [DFPs 2021–25]:
+  - os incentivos ficaram estáveis em **9–12% da receita** todos os anos;
+  - a margem EBIT **sem incentivos** caiu de ~2% (2021–23) para 0,6% (2024) e **−0,8%** (2025).
+  - A competição consome o incentivo: ele vira preço, não lucro.
 - [INFERÊNCIA] O incentivo leva o retorno até o custo de capital; não muito além. O risco econômico está concentrado nos **R$279,7 mi fora da ZFM**:
   - crédito da Lei de TICs, com vencimento em 2029;
   - ICMS de SC/MG/PE, com vencimento em 2032.
@@ -88,7 +92,8 @@ Por isso o valor da INTB3 depende menos do crescimento dos mercados e mais de tr
 
 **6. A Dahua dá tecnologia e financia o capital de giro, mas é dependência.**
 - [DADO] Compras da Dahua: R$729 mi em 2025 (−38,6% a/a), equivalentes a 36% dos gastos com fornecedores. Saldo a pagar: R$449 mi [DFP NE 32; FRE 1.4.e].
-- [ESTIMATIVA] Prazo implícito de pagamento à Dahua: **225 dias**. As compras equivalem a **~40% do CPV de Segurança**.
+- [ESTIMATIVA] Prazo implícito de pagamento à Dahua: **225 dias** em 2025 (151–192 dias em 2021–24).
+- [ESTIMATIVA] As compras equivalem a **~50% do CPV de Segurança** na média de 2021–25: 48%, 51%, 39%, 70% e 40% [DFPs 2021–25].
 - Prazo do acordo: dez/2028.
 - [DADO] Precedente: a FiberHome encerrou a exclusividade do GPON em jan/2026 [E27].
 - *Importa porque* a renovação de 2028 é o maior evento de risco isolado sobre a margem do segmento que gera 68% do lucro bruto.
@@ -156,6 +161,11 @@ Por isso o valor da INTB3 depende menos do crescimento dos mercados e mais de tr
 | 23 | Antidumping | US$2,42/kg sobre cabos ópticos e US$47,46/kg sobre fibra monomodo da China, por até 5 anos; fábrica de Tubarão "próxima da capacidade máxima" | E17; Rel. p.8 | [DADO] | …preço protegido até ~2030, com volume limitado pela capacidade |
 | 24 | Cross-border | Desde 13/05/2026: II 0% para compras de até US$50, mais ICMS de 17–20%. Encomendas internacionais caíram 11% em 2024 com a taxa de 20% | E15, E16 | [DADO] | …a volta do II zero reabre a importação direta de câmeras Wi-Fi e roteadores |
 | 25 | Reforma tributária | IPI mantido só para produtos com industrialização na ZFM; créditos presumidos de IBS/CBS na ZFM; Fundo de Compensação de R$160 bi para benefícios onerosos de ICMS em 2029–32 | E18, E19 | [DADO] | …ZFM preservada; incentivos de SC/MG/PE com data de fim |
+| 26 | Série de incentivos | 252 (2020), 308 (2021), 382 (2022), 435 (2023), 515 (2024), 460 (2025) = 9–12% da receita; margem EBIT sem incentivos: 6,3%*, 1,8%, 1,9%, 2,1%, 0,6%, −0,8% | DFPs 2021–25 (conciliação do IR) | [DADO + ESTIMATIVA] | …o negócio sem incentivo opera perto de zero, e cada vez mais. É a melhor evidência de que o incentivo é repassado a preço |
+| 27 | Margem bruta por segmento | Segurança: 36,5%, 34,1%, 34,5%, 37,4%, 34,8%, 33,2% (2020–25). TIC: 29,8% → 25,7%. Energia: 24,3% → 17,5% (2023) → 24,6% | DFPs 2021–25 (NE segmentos) | [DADO] | …Segurança oscila 33–37% sem tendência de alta. Não há poder de preço crescente |
+| 28 | Dahua, série | Compras de R$515–1.187 mi por ano; ~50% do CPV de Segurança na média de 2021–25; prazo implícito de 151–225 dias | DFPs 2021–25 | [DADO + ESTIMATIVA] | …a dependência é estrutural, não de um ano |
+
+\* 2020 não é comparável: o crédito da Lei de TICs começou em abr/2020 e, antes disso, o benefício de IPI não transitava pelo resultado como receita.
 
 ---
 
@@ -176,6 +186,7 @@ Por isso o valor da INTB3 depende menos do crescimento dos mercados e mais de tr
 | 11 | "Parte do ganho é cíclica (custo de reposição)" [Rel. p.2] | "Outra parte é estrutural (mix)" [Rel. p.3] | A divisão não foi quantificada. A margem normalizada é a principal incerteza de curto prazo |
 | 12 | Exclusividade de "Produtos Dahua no Brasil" [FRE 1.2] | Câmeras Imou (marca de consumo da Dahua) vendidas via AliExpress [E36] | O escopo da exclusividade parece não cobrir o cross-border nem submarcas |
 | 13 | 2023: aposta de que o FWA 5G chegaria a "até 20% da banda larga" [E24] | Fibra com ~79% da banda larga fixa em 2025 [E25] | A tese do 5G não se materializou na escala esperada |
+| 14 | DFP 2023: ICMS-AM com vencimento em **31/12/2073** | DFPs 2024 e 2025: ICMS-AM com vencimento em **31/12/2032** | [INFERÊNCIA] Reclassificação após a regulamentação da reforma: o ICMS acaba em 2032 e o benefício de Manaus passa a depender do novo regime (IPI + créditos presumidos de IBS/CBS). O **valor** pós-2032 do incentivo AM não está garantido |
 
 ---
 
@@ -192,7 +203,7 @@ Por isso o valor da INTB3 depende menos do crescimento dos mercados e mais de tr
 | Tributação das subvenções após a Lei 14.789/2023: a exclusão integral de 2025 tem respaldo ou contingência? | 34% × R$459,7 mi = R$156 mi, ou 32% do lucro | Notas de contingência; parecer jurídico; RI |
 | Escopo do acordo Dahua (submarcas, cross-border, renovação de 2028, efeito da venda das ações) | Risco nº 1 sobre a margem de Segurança | FRE 11.2 (íntegra); fato relevante; RI |
 | Lead time por categoria; % de produto acabado importado × montado localmente | Medir a defasagem câmbio → CPV por BU | RI; dados de importação por NCM |
-| Margem bruta trimestral por segmento antes de 2024 | Separar efeito câmbio de efeito mix | ITRs de 2019 a 2023 |
+| Margem bruta **trimestral** por segmento (as DFPs de 2021–25 dão só a anual, já incorporada em 5.3) | Medir a defasagem câmbio → margem com precisão | ITRs de 2020 a 2026 |
 | Receita de CPE 5G / FWA; base de acessos FWA na Anatel | Dimensionar o driver 5G | Anatel (painel de dados); RI |
 | Churn de revendedores; receita por revendedor; compra cruzada entre BUs | Testar o flywheel | RI; programa Pontua |
 | Receita da Hikvision no Brasil | Dimensionar o #2 | Relatório anual da Hikvision (segmentação geográfica é limitada) |
@@ -207,7 +218,7 @@ Por isso o valor da INTB3 depende menos do crescimento dos mercados e mais de tr
 | 2 | **O moat está no canal, não no hardware: 95% dos distribuidores exclusivos protegem share em Segurança, mas a fidelidade é comprada e não gera escala de custo** | Competição | Média-alta | Margem bruta, SG&A, capital de giro |
 | 3 | **Segurança concentra o valor (68% do lucro bruto, ROIC ~28%), mas cresce com o mercado e metade do excesso de retorno é o incentivo de Manaus** | Competição / BU | Média (ROIC estimado) | Receita, ROIC |
 | 4 | **Preço é ancorado no custo global e no câmbio; a Intelbras captura margem apenas na defasagem de ~170 dias de estoque** | Preços | Alta | Margem bruta |
-| 5 | **Dahua dá tecnologia e financia 225 dias de capital de giro, mas concentra ~40% do custo de Segurança num contrato que vence em 2028** | Supply chain / Competição | Alta | Margem bruta, capital de giro, ROIC |
+| 5 | **Dahua dá tecnologia e financia ~6 meses de capital de giro, mas concentra ~50% do custo de Segurança num contrato que vence em 2028** | Supply chain / Competição | Alta | Margem bruta, capital de giro, ROIC |
 | 6 | **A demanda de Segurança segue a percepção de risco e a obra, não o crime: o medo sobe com o crime em queda e os lançamentos recordes só chegam à instalação em 2027–28** | Macro (seus drivers) | Média | Receita |
 | 7 | **Juros altos comprimem Energia e TIC mais que Segurança, criando sensibilidades distintas dentro do portfólio** | Macro | Média-alta | Receita, PCLD, capital de giro |
 | 8 | **TIC tem 9% de share porque enfrenta escala global e compradores técnicos; o espaço real está em redes empresariais e cabeamento, não em GPON nem 5G** | Competição / Macro (seu driver) | Média | Receita, ROIC |
@@ -309,6 +320,27 @@ Fonte: [DFP NE 23 e 3.13]. A controladora registra R$453,4 mi, que o FRE apresen
 | Incentivo ÷ lucro líquido | 459,7 ÷ 483,7 | **95,0%** (2024: 97,4%) |
 | Margem bruta sem ICMS incentivado | (1.342,6 − 336,3) ÷ (4.460,4 − 336,3) | **24,4%** vs 30,1% reportada |
 
+**A série histórica: a evidência mais forte do eixo regulatório [DFPs 2021–25; Planilha]**
+
+| | 2020* | 2021 | 2022 | 2023 | 2024 | 2025 |
+|---|---|---|---|---|---|---|
+| Incentivos (conciliação do IR) | 252,0 | 308,3 | 382,4 | 434,7 | 514,7 | 459,7 |
+| % da receita | 11,8% | 10,0% | 9,0% | 10,6% | 10,8% | 10,3% |
+| % do EBIT | 65% | 85% | 83% | 83% | 95% | 108% |
+| % do lucro líquido | 77% | 85% | 80% | 80% | 97% | 95% |
+| Margem EBIT reportada | 18,1% | 11,7% | 10,9% | 12,7% | 11,4% | 9,5% |
+| **Margem EBIT sem incentivos** [ESTIMATIVA] | 6,3% | **1,8%** | **1,9%** | **2,1%** | **0,6%** | **−0,8%** |
+| Alíquota efetiva de IR/CSLL | 3,55% | −1,89% | 1,95% | 5,59% | 2,64% | 0,74% |
+
+\* 2020 não é comparável: a Lei de TICs passou a gerar crédito financeiro em abr/2020; antes, a redução de IPI não transitava pelo resultado como receita. O EBIT de 2020 também tem outros efeitos não recorrentes.
+
+**Como ler a tabela [INFERÊNCIA]**
+- O incentivo cresce **junto com a receita** (≈10%), porque ICMS e Lei de TICs são proporcionais ao faturamento.
+- A margem sem incentivos **não sobe**: ficou em ~2% entre 2021 e 2023 e caiu para perto de zero em 2024–25.
+- Se o incentivo fosse margem extra protegida, a margem sem incentivos seria estável e positiva, e a margem total subiria com a escala.
+- O que se vê é o contrário: a margem total ficou em 10–12% e o "núcleo" sem incentivo encolheu. A concorrência (importados e montadores na ZFM) **transfere o incentivo para o preço**.
+- **Erro comum.** Somar "margem sem incentivo + incentivo" e concluir que o negócio "vale" a soma. O incentivo já está precificado no mercado; o que a Intelbras retém é a diferença em relação a quem não o tem.
+
 ### 2.3 Carga tributária: Intelbras vs importador
 
 | Rota | Tributos sobre o bem | IR/CSLL | Fonte |
@@ -367,6 +399,7 @@ Fonte: [DFP NE 23 e 3.13]. A controladora registra R$453,4 mi, que o FRE apresen
 | Evidência | Aponta para | Tipo |
 |---|---|---|
 | Mesmo com R$460 mi de incentivos, o ROIC pré-IR de 2025 foi 15,1%, igual à Selic. Sem eles, o EBIT seria negativo (−34,5) | **Estrutura para competir.** O preço de mercado é fixado por quem tem custo mais baixo (importador asiático ou montador incentivado). O incentivo só traz a Intelbras até a paridade | [ESTIMATIVA] |
+| Incentivos estáveis em ~10% da receita (2021–25), enquanto a margem EBIT sem incentivos cai de ~2% para −0,8% | **Estrutura para competir, e cada vez mais.** O incentivo é progressivamente repassado ao preço | [DADO + ESTIMATIVA] DFPs 2021–25 |
 | "O mercado define os preços" [FRE 2.2, p.71] | Intelbras tomadora de preço → o incentivo não vira preço mais alto | [DADO] |
 | Concorrentes com acesso a regime equivalente: Multilaser/Hikvision na ZFM; importadores com benefícios estaduais de importação | Vantagem de **regime**, não de empresa. Diferencia contra importadores, não contra montadores locais | [DADO] E3 + [INFERÊNCIA] |
 | Segurança tem ROIC estimado de ~28%, mas ~14,7% sem o ICMS-AM | **Margem incremental parcial em Manaus.** A escala da Intelbras na ZFM pode capturar mais do que montadores menores | [ESTIMATIVA] |
@@ -484,7 +517,7 @@ Fonte: [DFP NE 23 e 3.13]. A controladora registra R$453,4 mi, que o FRE apresen
 | Custo de troca do usuário final (software, apps) | Captividade | ~R$140 mi de receita recorrente [FRE 1.2] | ~3% da receita; plug-and-play; cross-border | **FRACA** |
 | Marca | Captividade | 71% de reconhecimento; NPS 71 [FRE p.11, dados da companhia] | Sem prêmio de preço mensurado | **NÃO COMPROVADA** como pricing power |
 | Vantagem fiscal de produção local | Custo | R$460 mi; alíquota efetiva de 0,74% | Compartilhada (Multilaser/Hikvision na ZFM); prazos legais; ROIC ≈ Selic | **MODERADA e temporária**; mais durável em Manaus |
-| Sourcing via Dahua | Custo / barganha | Plataforma líder global; 225 dias de prazo | ~40% do CPV de Segurança; contrato até 2028; poder do fornecedor | **FRACA como vantagem**; é risco |
+| Sourcing via Dahua | Custo / barganha | Plataforma líder global; 151–225 dias de prazo | ~50% do CPV de Segurança (média 2021–25); contrato até 2028; poder do fornecedor | **FRACA como vantagem**; é risco |
 | Disponibilidade local (estoque de 173 dias) | Serviço / captividade | Instalador compra à pronta-entrega | Custa capital: ciclo de caixa de 145 dias | **MODERADA** |
 
 **Os três testes de evidência do apêndice**
@@ -545,7 +578,7 @@ Fonte: [DFP NE 23 e 3.13]. A controladora registra R$453,4 mi, que o FRE apresen
 | → Maior giro do distribuidor | **Não evidenciado** | Estoque da própria Intelbras subiu: 144–217 dias [Planilha] |
 | → Preferência e capilaridade | Evidenciado | 95% no Mais Verde; pontos 370 → 500 |
 | → Mais vendas | Parcial | Só em Segurança (+18% a.a. em 2019–25) |
-| → Maior escala → melhores condições | **Contradito** | ROIC 31% → 15%; SG&A sem diluição; margem bruta de Segurança ~39% (2020) → 33% |
+| → Maior escala → melhores condições | **Contradito** | ROIC 31% → 15%; SG&A sem diluição; margem bruta de Segurança 36,5% (2020) → 37,4% (2023) → 33,2% (2025) [DFPs] |
 
 **Veredito.** O **loop curto** gira:
 
@@ -563,8 +596,8 @@ O canal é **moat defensivo** (protege share e margem bruta), não motor de expa
 |---|---|---|
 | Acordo | Cooperação de 31/12/2018, por 10 anos, renovável. Intelbras compra CFTV (câmeras e gravadores) **exclusivamente/prioritariamente** da Dahua. Dahua dá à Intelbras exclusividade dos "Produtos Dahua" no Brasil, mais 6 meses após o fim | FRE 1.2, 11.3; DFP NE 32 |
 | Saídas | Intelbras pode comprar de outro se o preço for ≥5% maior, se houver falha técnica ou falência. Se a Dahua rescindir, a Intelbras compra por mais 3 anos | FRE 11.3 |
-| Custo | Compras de R$729 mi (2025) e R$1.187 mi (2024); 36% dos gastos com fornecedores; [ESTIMATIVA] ~40% do CPV de Segurança | DFP NE 32; FRE 1.4.e |
-| Financiamento | Saldo de R$449 mi = 43% do passivo com fornecedores. [ESTIMATIVA] Prazo implícito: 156 dias (2024) → **225 dias** (2025) | DFP NE 31/32 |
+| Custo | Compras: R$515 mi (2021), 664 (2022), 545 (2023), 1.187 (2024), 729 (2025); 36% dos gastos com fornecedores em 2025. [ESTIMATIVA] % do CPV de Segurança: 48%, 51%, 39%, 70%, 40%, ou **~50% na média** | DFPs 2021–25 (NE partes relacionadas); FRE 1.4.e |
+| Financiamento | Saldo de R$449 mi = 43% do passivo com fornecedores. [ESTIMATIVA] Prazo implícito: 187 (2021), 192 (2022), 151 (2023), 156 (2024) e **225 dias** (2025) | DFPs 2021–25 |
 | Sensibilidade | [ESTIMATIVA] Se o prazo cair para 90 dias: +R$269 mi de capital → ROIC pré-IR LTM de 18,8% → **17,1%** | Cálculo |
 | Societário | 7,56% do capital; um conselheiro, que administra a Dahua Technology Brasil; venda autorizada em até 36 meses (ago/2025) | FRE 7.3; E37 |
 | Precedente | FiberHome (GPON): exclusividade iniciada em jan/2024 e encerrada em 12/01/2026. "Ambas poderão atuar com outros parceiros" | E27 |
@@ -576,7 +609,7 @@ O canal é **moat defensivo** (protege share e margem bruta), não motor de expa
   - financia ~7 meses de compras;
   - a exclusividade de marca impede a Dahua de disputar o mesmo canal.
 - **No médio prazo, cria dependência estratégica maior que o moat que adiciona:**
-  1. ~40% do CPV do segmento que gera 68% do lucro bruto está em um único contrato que vence em 2028;
+  1. ~50% do CPV (média de 2021–25) do segmento que gera 68% do lucro bruto está em um único contrato que vence em 2028;
   2. o acionista-fornecedor está saindo do capital;
   3. o precedente da FiberHome mostra que exclusividades de parceiros chineses terminam;
   4. o canal da Intelbras é exatamente o ativo que a Dahua precisaria para entrar sozinha. Isso dá à Dahua poder de barganha na renovação.
@@ -699,6 +732,24 @@ O canal é **moat defensivo** (protege share e margem bruta), não motor de expa
 
 Fontes: [Planilha]; E11, E12. Dólar de jun/25 ≈ 5,47 [ESTIMATIVA].
 
+**Visão anual por segmento [DFPs 2021–25; E11]**
+
+| Ano | Dólar (dez/dez) | Dólar médio | Margem de Segurança | Margem de TIC | Margem de Energia | Margem consolidada |
+|---|---|---|---|---|---|---|
+| 2020 | +28,9% | — | 36,5% | 29,8% | 24,3% | 32,8% |
+| 2021 | +7,4% | — | 34,1% | 26,1% | 21,5% | 29,5% |
+| 2022 | −6,5% | — | 34,5% | 28,8% | 19,6% | 28,4% |
+| 2023 | — | 4,99 | **37,4%** | 30,3% | 17,5% | 31,1% |
+| 2024 | +27,9% | 5,39 | 34,8% | 27,2% | 24,7% | 30,8% |
+| 2025 | −11,1% | 5,58 | 33,2% | 25,7% | 24,6% | 30,1% |
+
+**Padrão em Segurança [INFERÊNCIA].**
+- No ano do choque de desvalorização, o estoque protege a margem (2020: 36,5%).
+- No período seguinte, a margem cai, porque o estoque caro chega ao CPV e o repasse é incompleto: 2021 (−2,4 p.p.) e 2024–25 (−2,6 e −1,6 p.p.).
+- O pico ocorre quando o custo landed cai: em 2023, real mais forte (média de 4,99) e normalização de frete e chips depois da crise logística de 2021–22.
+- A defasagem anual é coerente com ~173 dias de estoque.
+- Energia segue outro ciclo: o do preço do módulo solar, com mínimo em 2023 (17,5%) durante a queda global de preços.
+
 **Leitura [INFERÊNCIA].** A correlação simples dólar × margem é **fraca e de sinal instável**. O que explica a margem é a seguinte relação:
 
 > Margem bruta ≈ f( custo de reposição − custo médio do estoque ) × grau de repasse
@@ -762,7 +813,7 @@ O custo de reposição depende do **câmbio e do preço dos componentes em dóla
 > **POSIÇÃO** 44% de share (estável); liderança no canal instalador
 > ↓
 > **VANTAGEM** Canal (MODERADA), Manaus (MODERADA e durável), cesta para condomínios.
-> **DESVANTAGEM** Tecnologia de terceiros (Dahua ~40% do CPV); plug-and-play exposto ao cross-border
+> **DESVANTAGEM** Tecnologia de terceiros (Dahua ~50% do CPV, média de 2021–25); plug-and-play exposto ao cross-border
 > ↓
 > **IMPACTO** 68% do lucro bruto; lucro bruto/capital de 67%; ROIC ~28% (~14,7% sem o ICMS-AM)
 
@@ -863,13 +914,13 @@ O custo de reposição depende do **câmbio e do preço dos componentes em dóla
 - **Conclusão:** o valor em risco depende do repasse e da reação dos rivais.
 
 **IV. (inferior direito) Paridade, não margem extra**
-- **Gráfico:** barras horizontais.
-  - ROIC pré-IR de 2025: **15,1%** (verde).
-  - Selic: 13,75–14,75% (cinza).
-  - EBIT sem incentivos: −0,8% de margem.
-  - Nota: "Multilaser/Hikvision também na ZFM".
-- **Fonte:** Planilha; E10; E3.
-- **Conclusão:** o incentivo traz o retorno até o custo de capital.
+- **Gráfico:** linha de 2021 a 2025.
+  - Incentivos/receita, estável em ~10% (cinza).
+  - Margem EBIT sem incentivos: 1,8% → 1,9% → 2,1% → 0,6% → **−0,8%** (verde).
+  - Anotação: "a competição consome o incentivo".
+  - Rodapé com barras: ROIC pré-IR **15,1%** vs Selic 13,75%; nota "Multilaser/Hikvision também na ZFM".
+- **Fonte:** DFPs 2021–25; Planilha; E10; E3.
+- **Conclusão:** o incentivo vira preço; ele traz o retorno até o custo de capital.
 
 **Layout**
 - Waterfall no quadrante I, ocupando 55% da largura.
@@ -1002,7 +1053,7 @@ O custo de reposição depende do **câmbio e do preço dos componentes em dóla
 
 ### Slide 5 — Dahua
 
-**Título:** A Dahua dá tecnologia e financia 225 dias de capital de giro, mas concentra ~40% do custo de Segurança num contrato que vence em 2028
+**Título:** A Dahua dá tecnologia e financia ~6 meses de capital de giro, mas concentra ~50% do custo de Segurança num contrato que vence em 2028
 
 **Subtítulo:** A parceria aumenta o moat no curto prazo e cria a maior dependência estratégica da tese.
 
@@ -1016,7 +1067,7 @@ O custo de reposição depende do **câmbio e do preço dos componentes em dóla
 - **Conclusão:** concentração crescente.
 
 **II. A Dahua como financiadora**
-- **Callouts:** saldo de **R$449 mi**; prazo implícito de **225 dias**.
+- **Callouts:** saldo de **R$449 mi**; prazo implícito de **151–225 dias** (2021–25).
   - Barra: ROIC de 18,8% → 17,1% se o prazo cair para 90 dias.
 - **Fonte:** DFP NE 31/32; cálculo.
 - **Conclusão:** parte do ROIC é crédito do fornecedor.
@@ -1030,7 +1081,7 @@ O custo de reposição depende do **câmbio e do preço dos componentes em dóla
 **IV. Balança moat × dependência**
 - **Matriz de duas colunas:**
   - Moat: tecnologia, financiamento, exclusividade de marca.
-  - Dependência: ~40% do CPV, poucos chipsets, conselheiro da Dahua Brasil, Imou no cross-border.
+  - Dependência: ~50% do CPV, poucos chipsets, conselheiro da Dahua Brasil, Imou no cross-border.
 - **Fonte:** FRE; E36.
 - **Conclusão:** dependência > moat.
 
@@ -1237,8 +1288,8 @@ O custo de reposição depende do **câmbio e do preço dos componentes em dóla
 2. Velocidade de repasse, limitada pela paridade de importação.
 3. Mix entre BUs (Energia e TIC ~25% vs Segurança 33%).
 4. ICMS incentivado: +5,7 p.p. na margem reportada.
-5. Custo da Dahua (~40% do CPV de Segurança).
-6. Deflação tecnológica (−1 a −2 p.p. por ano em Segurança, de 2020 a 2025 [INFERÊNCIA: ~39% → 33%]).
+5. Custo da Dahua (~50% do CPV de Segurança na média de 2021–25).
+6. Deflação tecnológica e paridade de importação: a margem de Segurança oscila entre 33% e 37% (2020–25) sem tendência de alta [DFPs].
 
 **10. Quais três fatores têm maior capacidade de alterar o EBIT/EBITDA em 3–5 anos?**
 1. **Transição dos incentivos fora da ZFM (2029–2033):** R$280 mi brutos; ~R$100 mi no caso econômico central.
@@ -1293,7 +1344,7 @@ Para o ROIC, há um quarto fator: o capital de giro do canal (ciclo de caixa de 
 |---|---|---|---|
 | **Crescimento** | +4,9% (2025) e +5,8% (1S26); mercado implícito +2,5% em 2025; obras defasadas e retrofit dão suporte | −8,0% (2025) e +13,7% (1S26, com base fraca); "sem expansão relevante" [FRE]; banda larga +2,7% | −31% (2025); solar −29% em GW no país; carregadores de VE +64% na frota (base pequena) |
 | **Market share** | 44%, líder [FRE] | 9% [FRE]; TP-Link lidera roteadores na região [E28] | 19% sem solar (desafiante da SMS/Legrand); 1,9% em solar |
-| **Pricing power** | Repassa custos (2T26), mas não fixa o nível: margem de ~39% → 33,2% | Compradores técnicos; GPON com "controle de preço e crédito" defensivo | Solar é commodity; nobreak com líder estabelecido |
+| **Pricing power** | Repassa custos (2T26), mas não fixa o nível: margem de 36,5% (2020) → 37,4% (2023) → 33,2% (2025) | Compradores técnicos; GPON com "controle de preço e crédito" defensivo | Solar é commodity; nobreak com líder estabelecido |
 | **Intensidade competitiva** | Hikvision com montagem local; cross-border no plug-and-play; Control iD e JFL em nichos | Huawei, Cisco e TP-Link com escala global; FiberHome agora livre | SMS/Legrand, Schneider, TS Shara e WEG; solar pulverizado e global |
 | **Barreira de entrada** | Canal exclusivo + 90 mil instaladores + ZFM, mas a Hikvision entrou com R$6 mi via Multilaser [E3] | Baixa no varejo e em redes; temporária em cabos (antidumping) | Baixa em solar; média em nobreak (rede de assistência) |
 | **Moat de distribuição** | 68% via distribuição; 95% exclusivos; instalador especifica | Integradores multimarca; GPON direto a provedores | Nobreak usa o mesmo canal (moderado); solar usa canal próprio (fraco) |
@@ -1316,7 +1367,7 @@ Para o ROIC, há um quarto fator: o capital de giro do canal (ciclo de caixa de 
 - **[E8]** InfoMoney (Abrainc/Fipe) — [Mercado imobiliário fecha 2025 com recordes](https://www.infomoney.com.br/business/mercado-imobiliario-fecha-2025-com-recordes-em-lancamentos-e-vendas-apesar-de-juros/); Portas — [Recorde de lançamentos em 2025](https://portas.com.br/noticias/mercado-imobiliario-bate-recorde-de-lancamentos-em-2025/); Abrainc — [Release de indicadores](https://cdn.abrainc.org.br/files/2026/2/Release_Indicadores_202601.pdf)
 - **[E9]** SíndicoNet — [Mercado em crescimento](https://www.sindiconet.com.br/informese/mercado-em-crescimento-noticias-seguranca); Gazeta SP — [Portaria remota vira tendência](https://www.gazetasp.com.br/estado/portaria-remota-e-mercadinhos-viram-tendencia-em-condominios/)
 - **[E10]** Atlas Público (BCB) — [Copom reduz Selic para 13,75%](https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748)
-- **[E11]** Numerando — [Dólar 2025, médias anuais](https://numerando.com.br/cambio/dolar-americano/2025); [variação acumulada](https://www.numerando.com.br/indices/dolar/acumulado)
+- **[E11]** Numerando — [Dólar 2025, médias anuais](https://numerando.com.br/cambio/dolar-americano/2025); [Dólar 2023](https://numerando.com.br/cambio/dolar-americano/2023); [variação acumulada](https://www.numerando.com.br/indices/dolar/acumulado)
 - **[E12]** InfoMoney — [Dólar fecha a R$5,16 no semestre](https://infomoney.com.br/mercados/dolar-fecha-a-r-516-no-semestre-o-que-esperar-ate-o-fim-de-2026)
 - **[E13]** Teletime — [Operação Black Friday da Anatel usa IA para fiscalizar marketplaces](https://teletime.com.br/29/11/2024/operacao-black-friday-da-anatel-usa-ia-para-fiscalizar-marketplaces/); Hardware.com.br — [Anatel apreende produtos sem homologação](https://www.hardware.com.br/noticias/anatel-apreende-produtos-sem-homologacao-black-friday/)
 - **[E14]** Olhar Digital — [Blitz da Anatel em Amazon, Shopee e Mercado Livre (2025)](https://olhardigital.com.br/2025/05/26/reviews/blitz-da-anatel-mira-eletronicos-piratas-na-amazon-shopee-e-mercado-livre/)
