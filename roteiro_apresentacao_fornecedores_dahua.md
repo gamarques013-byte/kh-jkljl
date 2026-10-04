@@ -10,13 +10,29 @@
 
 | | Mensagem | Papel na história |
 |---|---|---|
-| **Slide 1** | "Baixo poder de barganha com os fornecedores": custo em dólar e comprado pronto, fornecedores concentrados → a Intelbras aceita o preço e repassa com atraso | **A regra:** explica por que a margem oscila |
+| **Slide 1** | "Baixo poder de barganha com os fornecedores": custo em dólar e comprado pronto, poucos parceiros nos elos críticos → a Intelbras aceita o preço e carrega estoque para garantir o suprimento | **A regra:** como a máquina de compras funciona e quanto capital ela consome |
 | **Ponte** | "E entre todos os fornecedores, um pesa mais que os outros: a Dahua." | Do geral para o específico |
 | **Slide 2** | "Dahua: parceira estratégica, dependência crescente": a Dahua dá a tecnologia e recebe o canal, mas pesa mais nas compras e no crédito e está saindo antes de 2028 | **A exceção que vira risco:** o maior evento isolado da tese |
 
 **Lógica interna de cada slide**
-- **Slide 1:** *o quê* (moeda) → *como* (compra pronto; fábrica se paga com incentivo) → *de quem* (poucos mandam em cada elo) → *consequência* (margem anda contra o dólar).
+- **Slide 1:** *o quê* (moeda) → *como* (compra pronto; fábrica se paga com incentivo) → *de quem* (mapa de suprimento: poucos parceiros) → *consequência* (estoque alto, financiado em parte por fornecedores).
 - **Slide 2:** em cima, *o que é a relação* (peso e troca); embaixo, *por que virou risco* (crédito e afastamento).
+
+---
+
+## Fronteira: modelo de negócios × análise setorial
+
+**Regra aplicada:** o modelo de negócios descreve a máquina **da Intelbras** (o que compra, de quem, em que moeda, quanto capital isso exige). Estrutura de mercado, concorrentes e formação de preço ficam no setorial.
+
+| Saiu destes slides | Vai para (análise setorial) |
+|---|---|
+| Market share global de chips e memória (TSMC 70%, top-3 de DRAM 92%) | Eixo de preços / supply chain: "quem define o preço" |
+| Dólar trimestral × margem bruta (1T23–2T26) | Tese 4: "Preço é ancorado no custo global e no câmbio" |
+| Hikvision (share, P&D, entrada via Multilaser) | Eixo de competição: escala global e produto a produto |
+
+**O que ficou, e por que é modelo de negócios:** exposição da própria Intelbras ao dólar; comprado × produzido × incentivo; os parceiros dela; o peso da Dahua; o capital de giro; o contrato, o crédito e a participação acionária da Dahua.
+
+**Na apresentação, se perguntarem pelo câmbio na margem:** "isso está na análise setorial, no eixo de preços".
 
 ---
 
@@ -28,8 +44,8 @@
 |---|---|---|---|
 | **I.** Moeda | "O câmbio afeta a Intelbras?" | Três barras com a parcela em moeda estrangeira: custo (~80%), contas a pagar (92%) e **contas a receber (4%)**. Pôr custo e receita lado a lado mostra o **descasamento**, que é o seu ponto ("receita em reais expõe a empresa") | Pretas compridas, verde curtinha |
 | **II.** Comprado vs produzido | "A Intelbras fabrica ou compra?" | Barras em R$: comprado (2.667) × produção própria (451) × **incentivos (460)**. Prova seu ponto da montagem com um número: os incentivos cobrem o custo da fábrica | A barra verde ≈ a barra preta |
-| **III.** Do chip ao produto pronto | "O que compra e quem manda em cada elo?" | Faixa com os três elos (componentes → montagem no Brasil → produto pronto) + concentração por elo: TSMC 70%, top-3 de memória 92%, e CFTV pronto **só da Dahua, por contrato**. Atende ao seu pedido de "do componente ao OEM" | Cada barra tem um dono grande |
-| **IV.** Consequência | "Isso aparece no resultado?" | Dois gráficos empilhados, com o mesmo eixo de trimestres (1T23–2T26): dólar em cima, margem bruta embaixo. Duas linhas separadas evitam o eixo duplo, que confunde leigos | Quando o dólar sobe, a margem cai; volta com atraso |
+| **III.** Mapa de suprimento | "O que compra, de quem, e dá para trocar?" | Três elos da **própria Intelbras** (componentes → montagem → produto pronto), com quem fornece e se dá para trocar em cada um, e o peso da Dahua nos gastos (36%). Atende ao "do componente ao OEM" sem virar análise do mercado de chips | Um parceiro ocupa um terço da barra |
+| **IV.** Consequência | "Quanto capital esse modelo exige?" | Colunas de dias de estoque × prazo pago aos fornecedores (2021–25). O vão entre as barras é dinheiro da Intelbras. Liga direto ao crédito da Dahua no slide 2 | Verde sempre acima do cinza |
 
 ### Slide 2
 
@@ -54,7 +70,7 @@
 | "R$524 mi ≈ 50% de fornecedores + risco sacado" | **R$449 mi = 43%** (DFP, auditado) | O FRE 11.2 informa R$524 mi; a diferença provavelmente é risco sacado, sem conciliação. Para manter a série 2021–25 comparável, usamos a DFP. Os R$524 mi estão nas anotações |
 | "Dependência é mútua" | "Mútua, mas **assimétrica**" | A Dahua é 23% do custo da Intelbras; a Intelbras é ~3% da receita da Dahua |
 | "Canal com ~50% do CFTV" | "Canal de 500 distribuidores e 90 mil instaladores" | O share atual é de 44% em Segurança (MIDI). O dado de ~50% do CFTV não tem série atual |
-| Gráfico de oligopólio com Hikvision | Concentração por **elo que a Intelbras compra**; Hikvision removida | A Hikvision é concorrente (análise setorial). No CFTV, o que importa é que a Intelbras tem um fornecedor por contrato |
+| Gráfico de oligopólio (TSMC, memória, Hikvision) | **Mapa de suprimento da Intelbras** + peso da Dahua nos gastos | Market share global é estrutura de mercado: vai para a análise setorial. Aqui fica o que é da Intelbras |
 | "Fontes: Intelbras RI" | Fontes específicas por slide | Cada número com origem |
 
 ---
@@ -70,7 +86,7 @@
 
 | Slide | Números-âncora, na ordem |
 |---|---|
-| 1 | **~80% × 4%** → **460 ≈ 451** → **TSMC 70% / Dahua** → **dólar +18%, margem −4,9 p.p.** |
+| 1 | **~80% × 4%** → **460 ≈ 451** → **Dahua 36%** → **~40–70 dias (≈R$0,4 bi)** |
 | 2 | **36%** → **23% × ~3%** → **225 dias / 43%** → **dez/28** |
 
 **Frases-chave para decorar**
@@ -83,7 +99,7 @@
 - **Metáfora:** "A Intelbras tem a loja e os vendedores; a Dahua tem a fábrica e os engenheiros. O contrato vence em 2028, e a Dahua está vendendo a parte que tinha na loja."
 
 **Se o tempo for cortado para 1 minuto:** leia os dois títulos e subtítulos e cite:
-- slide 1: "460 ≈ 451" e "dólar +18%, margem −4,9 p.p.";
+- slide 1: "460 ≈ 451" e "~40–70 dias de estoque financiados".
 - slide 2: "23% × ~3%" e "dez/28".
 
 **Animação sugerida (opcional):** no slide 2, revele a metade de baixo só ao dizer "agora, por que essa relação virou risco".
