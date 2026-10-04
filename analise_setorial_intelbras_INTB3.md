@@ -148,7 +148,7 @@ Por isso o valor da INTB3 depende menos do crescimento dos mercados e mais de tr
 | 10 | Hikvision no Brasil | A Multilaser monta HiLook (Hikvision) em Manaus desde 2022, com investimento de R$6 mi | E3 | [DADO] | …a vantagem de "fabricante local na ZFM" é replicável, e barata |
 | 11 | Programa de canais | PCI: proteção de preços, rotação de estoque ocioso, leads, metas quadrimestrais, reporte de sell-out, suporte a registro de projeto. Mais Verde: 95% dos distribuidores, desconto de 2–9%, exclusividade voluntária | FRE 1.2, p.6–7 | [DADO] | …o canal é cativo por contrato econômico, não por lock-in técnico |
 | 12 | Treinamento | 370 mil qualificações em 2025; mais de 1.000 cursos; 2 mi de certificados acumulados | FRE 1.1, p.1; p.14 | [DADO companhia] | …é o ativo mais lento de replicar: custo de aprendizado do instalador |
-| 13 | Dahua | Compras de R$729 mi (2025) e R$1.187 mi (2024); saldo de R$449 mi (consolidado); acordo até 31/12/2028; 7,56% do capital; venda autorizada em até 36 meses | DFP NE 32; FRE 11.2; E37 | [DADO] | …concentra custo, financiamento e governança na mesma contraparte |
+| 13 | Dahua | Compras de R$729 mi (2025) e R$1.187 mi (2024); saldo de R$449 mi (consolidado); acordo até 31/12/2028; 7,56% do capital; venda das ações autorizada pela Dahua desde ago/2023 (24 meses), renovada em ago/2025 (36 meses), **nada vendido** até 30/06/2026 | DFP NE 32; FRE 11.2; E37 | [DADO] | …concentra custo, financiamento e governança na mesma contraparte |
 | 14 | Exposição cambial | Fornecedores em USD: R$894 mi; NDF: R$451 mi (cobertura de ~50%); ±10% no dólar = ∓R$26 mi no resultado financeiro | DFP NE 25 | [DADO] | …o risco relevante é operacional (custo de reposição), não o financeiro |
 | 15 | Composição do estoque | Produtos acabados 733; matéria-prima 428; importações em andamento 318; provisão de obsolescência 73 (2024: 47) | DFP NE 8 | [DADO] | …a defasagem entre câmbio e CPV é de ~2 trimestres. A obsolescência cresce |
 | 16 | Margem bruta trimestral | 33,9% (1T24) → 29,0% (4T24) → 30,7% (4T25) → 33,1% (2T26) | Planilha | [DADO] | …a margem oscila ±2–5 p.p. com câmbio e custo de componentes |
@@ -164,6 +164,9 @@ Por isso o valor da INTB3 depende menos do crescimento dos mercados e mais de tr
 | 26 | Série de incentivos | 252 (2020), 308 (2021), 382 (2022), 435 (2023), 515 (2024), 460 (2025) = 9–12% da receita; margem EBIT sem incentivos: 6,3%*, 1,8%, 1,9%, 2,1%, 0,6%, −0,8% | DFPs 2021–25 (conciliação do IR) | [DADO + ESTIMATIVA] | …o negócio sem incentivo opera perto de zero, e cada vez mais. É a melhor evidência de que o incentivo é repassado a preço |
 | 27 | Margem bruta por segmento | Segurança: 36,5%, 34,1%, 34,5%, 37,4%, 34,8%, 33,2% (2020–25). TIC: 29,8% → 25,7%. Energia: 24,3% → 17,5% (2023) → 24,6% | DFPs 2021–25 (NE segmentos) | [DADO] | …Segurança oscila 33–37% sem tendência de alta. Não há poder de preço crescente |
 | 28 | Dahua, série | Compras de R$515–1.187 mi por ano; ~50% do CPV de Segurança na média de 2021–25; prazo implícito de 151–225 dias | DFPs 2021–25 | [DADO + ESTIMATIVA] | …a dependência é estrutural, não de um ano |
+| 29 | Dahua, visão da própria Dahua | Vendas à Intelbras: RMB 865 mi (2023), 1.272 mi (2024), 957 mi (2025), 323 mi no 1S26 (−26% a/a); prazo de crédito implícito de 150 → 188 dias (1S25 → 1S26); Intelbras é 2,9% da receita da Dahua e segue como coligada | Dahua, Relatórios 2024–1S26 | [DADO + ESTIMATIVA] | …a Dahua não apertou o crédito; a queda de 2026 parece desestocagem (estoque da Intelbras −16%) |
+| 30 | Concentração global de insumos | Fundição: TSMC 70% (2025); DRAM: 3 empresas = 92% (3T25); HD: 3 fabricantes (1T25); módulos solares: China 86% (2024); armazenamento: CATL 27%, EVE 10%, Hithium 10%, BYD 8% (1S26); vídeo: Hikvision 25% (2023), Dahua 12% (2022) | TrendForce; TrendFocus; IEA-PVPS; SNE Research; Omdia | [DADO] | …chips vêm de Taiwan, Coreia e EUA; produtos prontos e energia, da China. Poder do fornecedor alto em todos os elos |
+| 31 | P&D: parceiros × Intelbras | Dahua: 11.594 pessoas e RMB 4,34 bi (13% da receita, 2025); FiberHome: >10 mil em P&D; Intelbras: >600 pessoas e R$179 mi. O crédito da Lei de TICs devolveu 83% do gasto com P&D em 2021–25 | Dahua RA 2025; comunicado FiberHome (2023); FRE 1.4; DFPs | [DADO + ESTIMATIVA] | …o P&D da Intelbras é de adaptação (tropicalização) e em boa parte pago pelo incentivo |
 
 \* 2020 não é comparável: o crédito da Lei de TICs começou em abr/2020 e, antes disso, o benefício de IPI não transitava pelo resultado como receita.
 
@@ -599,7 +602,7 @@ O canal é **moat defensivo** (protege share e margem bruta), não motor de expa
 | Custo | Compras: R$515 mi (2021), 664 (2022), 545 (2023), 1.187 (2024), 729 (2025); 36% dos gastos com fornecedores em 2025. [ESTIMATIVA] % do CPV de Segurança: 48%, 51%, 39%, 70%, 40%, ou **~50% na média** | DFPs 2021–25 (NE partes relacionadas); FRE 1.4.e |
 | Financiamento | Saldo de R$449 mi = 43% do passivo com fornecedores. [ESTIMATIVA] Prazo implícito: 187 (2021), 192 (2022), 151 (2023), 156 (2024) e **225 dias** (2025) | DFPs 2021–25 |
 | Sensibilidade | [ESTIMATIVA] Se o prazo cair para 90 dias: +R$269 mi de capital → ROIC pré-IR LTM de 18,8% → **17,1%** | Cálculo |
-| Societário | 7,56% do capital; um conselheiro, que administra a Dahua Technology Brasil; venda autorizada em até 36 meses (ago/2025) | FRE 7.3; E37 |
+| Societário | 7,56% do capital; um conselheiro, que administra a Dahua Technology Brasil; venda das ações autorizada desde ago/2023 e renovada em ago/2025 (até ago/2028), mas nada vendido até 30/06/2026. O acordo de acionistas proíbe a Dahua de concorrer enquanto sócia e por 3 anos após sair, exceto em projetos (cl. 12.1) | FRE 7.3; E37; Acordo de Acionistas |
 | Precedente | FiberHome (GPON): exclusividade iniciada em jan/2024 e encerrada em 12/01/2026. "Ambas poderão atuar com outros parceiros" | E27 |
 | Entrada direta | A Hikvision entrou com montador local em meses, com R$6 mi de investimento [E3]. A Imou (Dahua) já chega via cross-border [E36] | E3, E36 |
 
@@ -1073,7 +1076,7 @@ O custo de reposição depende do **câmbio e do preço dos componentes em dóla
 - **Conclusão:** parte do ROIC é crédito do fornecedor.
 
 **III. Linha do tempo de riscos**
-- 2007 parceria → 2018 acordo de 10 anos → 2019 participação de 7,56% → ago/2025 venda autorizada → **dez/2028 vencimento**.
+- 2007 parceria → 2018 acordo de 10 anos → 2019 participação de 10% → jun/2023 venda de 2,44% (fica com 7,56%) → ago/2023 venda do restante autorizada (renovada em ago/2025; nada vendido) → 2024 canal próprio da Dahua no Brasil → **dez/2028 vencimento**.
 - Linha paralela em cinza: FiberHome, de jan/2024 a jan/2026, "exclusividade encerrada".
 - **Fonte:** FRE; E27; E37.
 - **Conclusão:** existe o precedente de fim de exclusividade.
@@ -1393,7 +1396,7 @@ Para o ROIC, há um quarto fator: o capital de giro do canal (ciclo de caixa de 
 - **[E34]** Guru3D — [Phison: crise de DRAM e NAND em 2026](https://www.guru3d.com/story/phison-warns-2026-dram-and-nand-crunch-could-wipe-out-budget-brands/); RedShark — [AI memory shortage](https://www.redsharknews.com/ai-memory-shortage-dram-nand-creative-industries)
 - **[E35]** Buscador NCM — [NCM 8525.89.13](https://buscadorncm.com.br/ncm/85258913) (fonte secundária; validar na TIPI e na TEC)
 - **[E36]** Pelando — [Câmera Imou vendida via AliExpress](https://www.pelando.com.br/d/imou-c-mera-ip-de-vigil-ncia-exterior-rastreamento-autom-tico-prova-de-intemp-ries-detec-o-humana-ai-bala-2c-2mp-2mp-aliexpress-55d1)
-- **[E37]** FilingReader — [Dahua autoriza venda de 7,56% da Intelbras](https://filingreader.com/news-wire/shenzhen/2025-08-15/dahua-technology-to-sell-756-stake-in-intelbras)
+- **[E37]** Dahua (fontes primárias) — [anúncio 2023-073](https://file.finance.qq.com/finance/hs/pdf/2023/08/26/1217655810.PDF), [anúncio 2025-075](https://file.finance.qq.com/finance/hs/pdf/2025/08/16/1224500256.PDF) e [Relatório Semestral 2026](https://pdf.dfcfw.com/pdf/H2_AN202608141827993589_1.pdf). A manchete do [FilingReader](https://filingreader.com/news-wire/shenzhen/2025-08-15/dahua-technology-to-sell-756-stake-in-intelbras) ("to sell") exagera: é autorização, não venda. Detalhe em `evidencias_dahua_quadrante_IV.md`
 - **[E38]** Teletime — [Intelbras vai investir R$200 mi em Manaus](https://teletime.com.br/27/04/2026/intelbras-vai-investir-r-200-milhoes-em-nova-fabrica-em-manaus/)
 - **[E39]** Control iD — [Datasheet iDBlock Next (fabricação nacional)](https://www.controlid.com.br/manual/idblock-next-bqc-datasheet.pdf)
 
