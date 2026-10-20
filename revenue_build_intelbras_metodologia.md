@@ -34,7 +34,7 @@ No exemplo da Dell, **só Servers and Networking** usa share × mercado. As outr
 
 **Blocos, como na imagem da Dell**
 
-1. **Receita por BU**: histórico de 2021 a 2025, projeção de 2026E a 2030E.
+1. **Receita por BU**: histórico de 2021 a 2025, projeção de 2026E a **2036E** (11 anos, em três fases; ver seção 6).
 2. **Tamanho de mercado por segmento**: em R$ mi.
 3. **Crescimento do mercado**: a premissa principal, com os drivers ao lado.
 4. **Market share por BU**: a segunda premissa.
@@ -179,7 +179,75 @@ Share total = Share no instalador × peso do instalador + Share em projetos e ci
 
 ---
 
-## 6. Âncoras para calibrar (não são cases)
+## 6. Horizonte até 2036: três fases
+
+O exemplo da Dell projeta 5 anos. Com 11 anos, os drivers detalhados perdem sentido depois de ~3 anos, e as fontes externas acabam antes de 2036 (MarketsandMarkets vai até 2030, IMARC até 2034). Por isso, o crescimento precisa **convergir**.
+
+### 6.1 As fases
+
+| Fase | Anos | Crescimento do mercado | Share | Fontes |
+|---|---|---|---|---|
+| **1. Drivers explícitos** | 2026–2028 | Volume × preço × câmbio, por BU | Último observado (44%, 9%, 19%, 1,9%) | 1S26 realizado, Focus, lançamentos com defasagem, Absolar, capacidade de cabos |
+| **2. Eventos e convergência** | 2029–2033 | Converge linearmente para o longo prazo | **Onde os cases vão diferir** (eventos abaixo) | Calendário regulatório e contratual |
+| **3. Estado estável** | 2034–2036 | = crescimento da perpetuidade | Constante | — |
+
+**Fórmula da convergência (fade linear)**, da fase 1 até 2036:
+
+```
+g(t) = g(2028) + [g(LP) − g(2028)] × (t − 2028) ÷ (2036 − 2028)
+```
+
+**Exemplo só da mecânica.** Com g(2028) = 7,0% e g(LP) = 5,6%, o crescimento cai 0,175 p.p. por ano: 7,0% → 6,8% (2029) → 6,7% → 6,5% → 6,3% → 6,1% → 6,0% → 5,8% → **5,6% (2036)**.
+
+### 6.2 O crescimento de longo prazo
+
+- **Nominal em R$** = (1 + PIB real) × (1 + IPCA) − 1. Com o Focus de 2029 (PIB 2,0%, IPCA 3,5%): 1,02 × 1,035 − 1 = **5,6% a.a.**
+- **Câmbio além do Focus.** Paridade de poder de compra: o real se desvaloriza (1 + IPCA) ÷ (1 + inflação dos EUA) − 1 = 1,035 ÷ 1,02 − 1 = **1,5% a.a.** De R$5,50 em 2029, chega a 5,50 × 1,0147⁷ ≈ **R$6,09 em 2036**. Só use câmbio se a BU estiver decomposta em US$; nas fases 2 e 3, o nominal em R$ basta.
+- **Por BU**, como ponto de partida:
+  - Segurança: perto do PIB nominal (~5,6%). Ainda há penetração para crescer: só 17% dos domicílios tinham alarme ou câmera em 2021.
+  - TIC e solar: perto do IPCA (~3,5%). Hardware maduro e deflacionário.
+  - Energia sem solar: acompanha Segurança, porque é satélite dela.
+- **Amarração com o DCF.** O crescimento de 2036 tem que ser **igual ao g da perpetuidade**. Se a receita cresce 8% em 2036 e a perpetuidade usa 4%, o valor terminal fica inconsistente.
+
+### 6.3 Eventos dentro do horizonte
+
+Eles mexem em share e preço, não só em margem:
+
+| Quando | Evento | BU | Efeito no revenue build |
+|---|---|---|---|
+| mai/2026 → | Imposto de importação zerado no cross-border até US$50 | TIC, varejo de Segurança | Pressão de share no varejo |
+| ago/2028 | Fim da autorização de venda das ações da Dahua | Segurança | Sinal sobre a relação |
+| **dez/2028** | **Vence o acordo de cooperação Intelbras–Dahua** | Segurança | Maior risco de share do horizonte: renovação, troca de fornecedor ou competição direta |
+| 2028–2029 | Fio B a 90%; regras da Aneel a partir de 2029 | Solar | Volume de geração distribuída no piso |
+| 2029 | Fim da Lei de TICs | Todas | Se a Intelbras repassar o fim do crédito ao preço, perde share |
+| 2029–2032 | Transição do ICMS (incentivos de SC, MG e PE caem; a Zona Franca de Manaus fica) | Todas | Hikvision em Manaus ganha paridade relativa → risco de share em Segurança |
+| dez/2030 | Fim do antidumping de fibra (5 anos) | TIC | Cabos: preço normaliza; a limitação de capacidade deixa de valer |
+
+Na fase 2, o share de Segurança é a premissa que separa os cases. Por isso, deixe uma **linha de share com as datas desses eventos** já na estrutura.
+
+### 6.4 Testes de sanidade para 11 anos
+
+**1. Juros compostos amplificam erro.** Receita de Segurança em 2036:
+
+- crescendo 6% a.a.: 2.730 × 1,06¹¹ = **R$5,18 bi**;
+- crescendo 7% a.a.: 2.730 × 1,07¹¹ = **R$5,75 bi**.
+
+Um ponto a mais de crescimento dá **+10,9%** de receita no ano terminal. Com 11 anos explícitos, a trajetória pesa mais no valor do que num modelo de 5 anos.
+
+**2. Decomponha o múltiplo de 2036.** Mercado de Segurança: 6.205 × 1,056¹¹ ≈ **R$11,3 bi**, ou 1,82x o de hoje.
+
+- Inflação: 1,035¹¹ = 1,46x.
+- Volume real: 1,02¹¹ = 1,24x.
+
+Pergunte se 2% a.a. reais de volume por 11 anos é crível: domicílios, condomínios, penetração de 17%, preço por câmera caindo.
+
+**3. Mix de receita.** Segurança é 61% da receita hoje. Se cresce acima de TIC e Energia, chega a 2036 maior. Isso eleva a margem consolidada pelo mix, um argumento a favor da tese de compra que **não depende de ganhar share**.
+
+**4. Share × mercado em 2036.** Verifique se o share implícito é coerente com o que a fase 2 assumiu sobre Hikvision e Dahua.
+
+---
+
+## 7. Âncoras para calibrar (não são cases)
 
 **1S26 realizado.** Receita de R$2.259,7 mi (+4,2%):
 
@@ -206,7 +274,7 @@ São resumos de imprensa. Confirme nos relatórios.
 
 ---
 
-## 7. Armadilhas
+## 8. Armadilhas
 
 1. **Definição de share ≠ definição de mercado.** Share e mercado da mesma fonte e perímetro; senão, use o share calibrado (3.1).
 2. **Usar o nível de relatórios em US$** (MarketsandMarkets US$496 mi vs. MIDI ~US$1,1 bi). Use só o crescimento e converta o câmbio.
@@ -216,10 +284,13 @@ São resumos de imprensa. Confirme nos relatórios.
 6. **Nominal × real.** Mercados em R$ nominais carregam preço e câmbio. Não compare com o PIB real sem somar inflação.
 7. **Defasagem de obra.** Lançamento não vira câmera no mesmo ano.
 8. **Capacidade.** Em cabos ópticos, a demanda protegida esbarra na fábrica. Share × mercado superestimaria a receita.
+9. **Estender CAGRs de relatórios além da janela deles.** MarketsandMarkets 2025–30 não vale para 2031–36. Depois da janela, use o fade.
+10. **Crescimento de 2036 ≠ g da perpetuidade.** O valor terminal fica inconsistente.
+11. **Share constante com mix mudando.** Se cidades e projetos crescem mais rápido e a Intelbras captura pouco, o share total cai (5.1).
 
 ---
 
-## 8. Dados que ainda faltam
+## 9. Dados que ainda faltam
 
 - [ ] Fonte do mercado de R$7,2 bi no slide 20 (e a definição).
 - [ ] Peso de solar na receita de Energia, ou R$/W de kit da Renovigi.
@@ -227,6 +298,9 @@ São resumos de imprensa. Confirme nos relatórios.
 - [ ] Focus mais recente (PIB, IPCA, câmbio, Selic 2026–30).
 - [ ] Lançamentos de 2026 (Abrainc/Fipe) para a defasagem de obra.
 - [ ] Relatórios do sell-side (XP, Ágora, BBI, JPM) para o street case.
+- [ ] Focus de 2027–2029 (o câmbio de 2029 varia de 5,36 a 5,57 entre edições) e meta de inflação de longo prazo.
+- [ ] Status da renovação do acordo Intelbras–Dahua (vence em dez/2028).
+- [ ] g da perpetuidade que você vai usar no DCF (amarra a fase 3).
 
 ---
 
@@ -241,4 +315,4 @@ São resumos de imprensa. Confirme nos relatórios.
 - CBIC — [Construção projeta 2026 mais positivo](https://cbic.org.br/construcao-civil-projeta-2026-mais-positivo-que-2025-impulsionado-por-credito-e-investimentos/); [PIB da construção 1T26](https://cbic.org.br/construcao-cresce-29-no-primeiro-trimestre-de-2026/)
 - Canal Solar — [Previsão da energia solar em 2026](https://canalsolar.com.br/previsao-da-energia-solar-em-2026/); eixos (Absolar) — [Solar retraiu 29% em 2025](https://eixos.com.br/solar/expansao-da-energia-solar-retraiu-29-em-2025-indica-absolar/)
 - Sell-side — [Money Times (JP Morgan)](https://www.moneytimes.com.br/apos-salto-nas-acoes-jp-morgan-rebaixa-recomendacao-de-intelbras-intb3-de-olho-no-segundo-semestre-lils/); [XP](https://conteudos.xpi.com.br/acoes/relatorios/intelbras-intb3-melhora-de-margens-com-crescimento-seletivo/); [EQI (Ágora)](https://euqueroinvestir.com/acoes/intelbras-tera-2026-de-menor-receita-mas-maior-rentabilidade); [EQI (BBI)](https://euqueroinvestir.com/acoes/intelbras-vai-reinvestir-ganhos-de-margem-diz-bradesco-bbi)
-- Focus — [Suno](https://www.suno.com.br/noticias/boletim-focus-29062026-go/); [SBT News](https://sbtnews.sbt.com.br/noticia/economia/boletim-focus-reduz-projecoes-de-selic-e-pib-para-2026)
+- Focus — [InfoMoney, abr/26 (2028–29)](https://www.infomoney.com.br/economia/boletim-focus-projecoes-macroeconomicas-06042026/); [EQI](https://euqueroinvestir.com/economia/boletim-focus-reduz-projecao-para-selic-no-fim-do-ano); [Suno](https://www.suno.com.br/noticias/boletim-focus-29062026-go/); [SBT News](https://sbtnews.sbt.com.br/noticia/economia/boletim-focus-reduz-projecoes-de-selic-e-pib-para-2026)
